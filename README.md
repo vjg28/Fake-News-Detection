@@ -18,7 +18,7 @@ The model I designed uses BERT pretrained model for encoded representations and 
 
 
 ## Details and How to use
-Refer to the [pdf report](Fake_News_detection.pdf) attached for more details on the model, hardware requirements and how to use.
+Refer to the [pdf report](Fake_News_detection.pdf) attached for more details on the model, hardware requirements and how to use. LIAR-PLUS dataset can be downloaded [here](https://github.com/Tariq60/LIAR-PLUS).
 
 ## Dependencies
 - Tensorflow
